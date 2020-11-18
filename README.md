@@ -1,3 +1,3 @@
 # dockerfile
 # wordpress
-lnm+wordpress
+lnmp+wordpress
